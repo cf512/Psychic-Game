@@ -47,7 +47,7 @@ exercise provides a more comprehensive review of this unit's material, we sugges
 
 ## Option One: Psychic Game (Basic)
 
-![Psychic](Images/1-Psychic.jpg)
+![Psychic](https://github.com/cf512/Psychic-Game/blob/master/assets/images/1-Psychic-jpg?raw=true)
 
 1. [Watch the demo](https://youtu.be/qTc45Lox97g).
 
